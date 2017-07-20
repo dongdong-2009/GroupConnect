@@ -1,4 +1,4 @@
-# GroupConnect ÍÅ¶ÓºÏ×÷¹¤¾ß
+ï»¿# GroupConnect å›¢é˜Ÿåˆä½œå·¥å…·
 
 ![](https://raw.githubusercontent.com/andyliu24/GroupConnect/master/doc/1.PNG)
 
