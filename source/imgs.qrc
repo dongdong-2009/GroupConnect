@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>imgs/bold.png</file>
+        <file>imgs/clear.png</file>
+        <file>imgs/colorpallette.png</file>
+        <file>imgs/file.png</file>
+        <file>imgs/italic.png</file>
+        <file>imgs/note.png</file>
+        <file>imgs/QtChat.ico</file>
+        <file>imgs/underline.png</file>
+    </qresource>
+</RCC>
